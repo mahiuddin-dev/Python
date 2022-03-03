@@ -1,7 +1,8 @@
-# Data Types:
+# 1. Data Types:
 
 1. Integer (int) => 1,2,3,4
 2. Float (float) => 1.5
 3. String (str) => dinajpur
 4. bool (bool)  => True
 
+# 2. If Else Statements:
