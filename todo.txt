@@ -6,3 +6,4 @@
 4. bool (bool)  => True
 
 # 2. If Else Statements:
+Check result great 
